@@ -1,0 +1,56 @@
+.buton{
+    background-color: grey;
+    height: 50px; 
+    /* width: 40px;  */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.buton:hover{
+    background-color: rgb(54, 54, 54);
+}
+
+img{
+    width: 40px;
+    height: 40px;
+}
+
+h4{
+    width: 100px;
+    height: 30px;
+    color: white;
+    position: fixed;
+    left: 60px;
+}
+
+h3{
+    color: white;
+    width: 40px;
+}
+
+.inner-container{
+    width: 50px;
+}
+
+.inner-container:hover{
+    width: 200px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1500px;
+}
+
+.in-container{
+    display: block;
+}
+
+p{
+    width: 900px;
+    margin-left: 90px;
+}
+
+h1{
+    margin-left: 90px;
+}
